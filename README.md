@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 , I'm Younes Ouma
+
+
+I’m a freelance Website Developer and WordPress Expert with 5 years of top-notch experience creating professional websites.
+
 
 <!--
 **oumayounes/oumayounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
